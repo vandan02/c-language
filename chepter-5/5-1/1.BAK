@@ -1,0 +1,23 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+     int A=15,a=10,b=20;
+     clrscr();
+
+     printf("Q1 Create a program to print increment an decrement.\n\n");
+
+     printf("Increment= %d\n",++A);
+     printf("Decrement= %d\n\n\n",--A);
+
+     printf("Q2 Create a program and use arithmetic operator.\n\n");
+
+     printf("Addition \n  10\n +20\n------\n =%d\n",a+b);
+     printf("Subtraction \n  10\n -20\n-----\n =%d\n",b-a);
+     printf("Multiplication \n 10\n  %d\n",a*b);
+     printf("Division= %d\n",b/a);
+     printf("Modues=%d\n",b%a);
+
+     getch();
+
+}
