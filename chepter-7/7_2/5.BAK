@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+
+main()
+{
+	   int a;
+	   clrscr();
+	   printf("recharge planes\n\n\n");
+	   printf("press 1 for english");
+	   printf("press 1 for english");
+	   printf("press 1 for english");
+
+	   getch();
+
+
+}
