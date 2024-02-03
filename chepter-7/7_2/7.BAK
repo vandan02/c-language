@@ -1,0 +1,24 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+	int a;
+	clrscr();
+	printf("enter eny number");
+	scanf("%d",& a);
+
+
+	if(a %2==0 )
+	 {
+	 printf("this is a evan number");
+	 }
+
+	else
+	{
+	   printf("this is odd number");
+
+	}
+
+	getch();
+
+}
