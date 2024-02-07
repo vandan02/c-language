@@ -1,0 +1,195 @@
+      #include<stdio.h>
+      #include<conio.h>
+      main()
+      {
+	    char name[100];
+	    long int number;
+	    int cate,type,movie,baseprice,gst,totalprice;
+       clrscr();
+		printf("----------------------------");
+	      printf(" |    welome to inox    |");
+		printf("---------------------------");
+	       printf("\nenter your name:");
+	       scanf("%s",&name);
+	       printf("\nenter your mobile.no: ");
+	       scanf("%ld",&number);
+
+	       printf("\n-----------------------\n");
+	       printf("|      category       |\n");
+	       printf("-----------------------\n");
+	       printf("|    [1]hollywood     |\n");
+	       printf("|    [2]bollywood     |\n");
+	       printf("|    [3]tollywood     |\n");
+	       printf("|    [4]animation     |\n");
+	       printf("-----------------------\n");
+
+	       printf("witch category you choose:");
+	       scanf("%d",&cate);
+
+
+		       switch(cate)
+			      {
+			      case 1:
+
+
+
+				   printf("\n-------------------\n");
+				   printf("|       type       |\n");
+				   printf("--------------------\n");
+				   printf("|    [1]horror     |\n");
+				   printf("|    [2]marvel     |\n");
+				   printf("|    [3]comedy     |\n");
+				   printf("--------------------\n");
+
+				   printf("whice type movie you like:");
+				   scanf("%d",type);
+			   switch(type)
+				 {
+				    case 1:  printf("vvv");
+				  }
+
+
+
+
+				   break;
+			      case 2:
+				     printf("\n| bollywood |");
+
+			      case 3:
+				     printf("\n| tollywood |");
+
+			      case 4:
+				     printf("\n| animation |");
+
+			      }
+
+	   getch();
+
+
+	    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
